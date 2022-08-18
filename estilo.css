@@ -1,3 +1,7 @@
+body{
+
+}
+
 img{
   width: 100%;
   height: 100%;
@@ -23,4 +27,34 @@ img{
   justify-content: center;
   margin: center;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.text9{
+  position: absolute;
+  
+}
+
+
+.texto7{
+  position: absolute;
+  color:rgb(61, 61, 61);
+  text-align: center;
+  
+  font-size: 16px;
+ 
+}
+
+.subtexto{
+  position: absolute;
+  color:rgb(61, 61, 61);
+  text-align: center;
+  
+  font-size: 22px;
+
+}
+
+.container{
+  background-color: aqua;
+  height: 200px;
+  display: flex;
 }
